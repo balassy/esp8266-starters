@@ -1,0 +1,11 @@
+https://learn.sparkfun.com/tutorials/apds-9960-rgb-and-gesture-sensor-hookup-guide
+https://github.com/sparkfun/APDS-9960_RGB_and_Gesture_Sensor
+
+https://github.com/jonn26/SparkFun_APDS-9960_Sensor_Arduino_Library - Modified for ESP8266
+https://github.com/jonn26/SparkFun_APDS-9960_Sensor_Arduino_Library/network
+
+https://github.com/dnnagy/SparkFun_APDS-9960_Sensor_Arduino_Library
+
+https://github.com/arendst/Sonoff-Tasmota/wiki/APDS-9960
+
+https://www.14core.com/wiring-the-apds-9930-ambient-light-sense-apds-9960-rgb-gesture-sensor-with-microcontroller/
